@@ -2,6 +2,9 @@
 ## About Application
 The application was originally intended to be a hybrid client for a sub/pub model application layer protocol.
 
+## Required Permissions
+Network access
+
 ## Known Prolems:
 #### The client is only capable of publishig, for now.
 #### Have made some changes to the code which have not been tested. Will update about that soon.
