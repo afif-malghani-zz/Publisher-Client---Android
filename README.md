@@ -7,4 +7,4 @@ Network access
 
 ## Known Prolems:
 #### The client is only capable of publishig, for now.
-#### Have made some changes to the code which have not been tested. Will update about that soon.
+#### Have made some changes to the code, but no longer have the server code, my friend lost it. So, the changes have not been tested.
