@@ -5,6 +5,9 @@ The application was originally intended to be a hybrid client for a sub/pub mode
 ## Required Permissions
 Network access
 
+## Hopefully will add in future:
+Start using Google cloud pub/sub API
+
 ## Known Prolems:
 #### The client is only capable of publishig, for now.
 #### Have made some changes to the code, but no longer have the server code, my friend lost it. So, the changes have not been tested.
